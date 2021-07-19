@@ -6272,11 +6272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS_Transport.ClientApp\\Q-LESS_Transport.ClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS_Transport.ClientApp\\Q-LESS_Transport.ClientApp.csproj",
       "projectName": "Q-LESS_Transport.ClientApp",
-      "projectPath": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS_Transport.ClientApp\\Q-LESS_Transport.ClientApp.csproj",
+      "projectPath": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS_Transport.ClientApp\\Q-LESS_Transport.ClientApp.csproj",
       "packagesPath": "C:\\Users\\acara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS_Transport.ClientApp\\obj\\",
+      "outputPath": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS_Transport.ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

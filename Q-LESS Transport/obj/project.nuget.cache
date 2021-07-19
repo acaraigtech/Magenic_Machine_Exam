@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMdSzjHs1GAFekJycJg0tb+agz5B8Ku5V/eauZL/R7RZp0TQ6gwfMWGoCPfskF/VGCzGIk+kziBVvKWip2caSw==",
+  "dgSpecHash": "ajrccm+ZEQVVTgjSi3VYXwBxVpcyNdlfdCMFYDO4NHczojLIngl+Siwq8T89O6zj/erUHK81ltb9O4z3suftkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport\\Q-LESS Transport.csproj",
+  "projectFilePath": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acara\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\acara\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

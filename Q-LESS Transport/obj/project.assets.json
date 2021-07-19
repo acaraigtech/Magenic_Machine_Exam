@@ -5874,11 +5874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport\\Q-LESS Transport.csproj",
+      "projectUniqueName": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport.csproj",
       "projectName": "Q-LESS Transport",
-      "projectPath": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport\\Q-LESS Transport.csproj",
+      "projectPath": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport.csproj",
       "packagesPath": "C:\\Users\\acara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acara\\Desktop\\Magenic_Machine_Exam\\Q-LESS Transport\\Q-LESS Transport\\obj\\",
+      "outputPath": "C:\\Users\\acara\\Desktop\\GITHUB\\Magenic_Machine_Exam\\Magenic_Machine_Exam\\Q-LESS Transport\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
