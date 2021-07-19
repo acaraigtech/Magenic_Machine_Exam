@@ -127,7 +127,7 @@ namespace Q_LESS_Transport.Controllers
 
             if (card.Balance == Common.MAXIMUM_BALANCE_AMOUNT)
             {
-                throw new ArgumentException("You have reach the maximum load amount");
+                throw new InvalidOperationException("You have a maximum load balance");
             }
 
             var resource = doTransactionComputation(request, card.Id, card.Balance);

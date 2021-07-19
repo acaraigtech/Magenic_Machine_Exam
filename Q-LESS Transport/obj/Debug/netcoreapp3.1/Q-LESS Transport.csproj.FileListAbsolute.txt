@@ -63,3 +63,68 @@ C:\Users\acara\Desktop\Magenic_Machine_Exam\Q-LESS Transport\Q-LESS Transport\ob
 C:\Users\acara\Desktop\Magenic_Machine_Exam\Q-LESS Transport\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.dll
 C:\Users\acara\Desktop\Magenic_Machine_Exam\Q-LESS Transport\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.pdb
 C:\Users\acara\Desktop\Magenic_Machine_Exam\Q-LESS Transport\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.genruntimeconfig.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.exe
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.deps.json
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.runtimeconfig.json
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.runtimeconfig.dev.json
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Q-LESS Transport.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.csprojAssemblyReference.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.AssemblyInfoInputs.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.AssemblyInfo.cs
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.csproj.CoreCompileInputs.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\staticwebassets\Q-LESS Transport.StaticWebAssets.Manifest.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\staticwebassets\Q-LESS Transport.StaticWebAssets.xml
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\scopedcss\bundle\Q-LESS Transport.styles.css
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.RazorTargetAssemblyInfo.cache
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.csproj.CopyComplete
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.dll
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.pdb
+C:\Users\acara\Desktop\GITHUB\Magenic_Machine_Exam\Magenic_Machine_Exam\Q-LESS Transport\obj\Debug\netcoreapp3.1\Q-LESS Transport.genruntimeconfig.cache
