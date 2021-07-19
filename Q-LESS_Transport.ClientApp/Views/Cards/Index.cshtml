@@ -1,0 +1,55 @@
+﻿@model Q_LESS_Transport.ClientApp.Models.CardTypeDetailsResource
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Buy your L-LESS Transport Card Here</h4>
+<hr />
+<div class="row align-self-center">
+    <div class="col-md-4">
+        <form asp-action="Index" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <select asp-for="Id"
+                        class="form-control"
+                        asp-items="@(new SelectList(ViewBag.CardTypeDetailsSelectList.Items, "Id", "Name"))">
+                </select>
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div id="discountCardIdFromGroup" hidden>
+                <div class="form-group" id="discountCardIdFromGroup">
+                    <label asp-for="DiscountCardID" class="control-label"></label>
+                    <input asp-for="DiscountCardID" class="form-control" />
+                    <span asp-validation-for="DiscountCardID" class="text-danger"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="IsSenior" /> @Html.DisplayNameFor(model => model.IsSenior)
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Buy Now" class="btn btn-primary" id="btnBuyNow" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (ViewBag.IsSuccess)
+{
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+    <strong>You have successfully avail Q-LESS Transport Card!</strong> Thank you for trusting us!.<br />
+    <strong>Dont forget your Card Id number!</strong><br />
+    <div>
+        <strong>Card ID:</strong> @(ViewBag.CardId)<br />
+        <strong>Initial Balance:</strong> ₱ @(ViewBag.Balance)<br />
+        <strong>Valid Until:</strong> @(ViewBag.ValidUntil)<br />
+    </div>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+}

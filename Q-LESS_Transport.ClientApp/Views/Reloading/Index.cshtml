@@ -1,0 +1,54 @@
+﻿@model Q_LESS_Transport.ClientApp.Models.TransactionResource
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Reloading Station</h4>
+<hr />
+<form asp-controller="Reloading" asp-action="Index" method="post" role="form">
+    <div class="row">
+        <div class="form-group">
+            @Html.Label("Card ID")
+            <select asp-for="CardId"
+                    class="form-control"
+                    asp-items="@(new SelectList(ViewBag.CardSelectList.Items, "Id", "Id"))">
+            </select>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group">
+            <label asp-for="Amount" class="control-label"></label>
+            <input asp-for="Amount" class="form-control" />
+            <span asp-validation-for="Amount" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <label asp-for="CustomerMoney" class="control-label"></label>
+            <input asp-for="CustomerMoney" class="form-control" />
+            <span asp-validation-for="CustomerMoney" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input id="Submit" class="btn btn-success" type="submit" value="Load Now!" />
+    </div>
+</form>
+
+@if (ViewBag.IsSuccess)
+{
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+    <strong>Your card has been successfully reloaded!</strong> Thank you for trusting us!.<br />
+        <div>
+            <strong>Loaded:</strong> ₱ @(ViewBag.Amount)<br />
+            <strong>Payment:</strong> ₱ @(ViewBag.CustomerMoney)<br />
+            <strong>Change:</strong> ₱ @(ViewBag.Change)<br />
+            <strong>Current Balance:</strong> ₱ @(ViewBag.NewBalance)
+        </div>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+}
+
